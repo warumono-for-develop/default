@@ -6,8 +6,8 @@
   <h1 align="center">warumono-for-develop</h1>
 
   <p align="center">
-    warumono-for-develop
+    Java, Spring Boot, MySQL, JPA, jOOQ, JWT, Objective-C, SWIFT, Docker, Jenkins and Backend
     <br />
-    <a href="https://github.com/warumono-for-develop"><strong>Explore the repositories »</strong></a>
+    <a href="https://github.com/warumono-for-develop?tab=repositories"><strong>Explore the repositories »</strong></a>
   </p>
 </p>
